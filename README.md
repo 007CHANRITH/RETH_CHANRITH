@@ -43,15 +43,7 @@ Here are some of the projects I've worked on:
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=kotlin,flutter,java,html,css,c,cpp,mysql,figma&perline=10" />
 </p>
 
 ---
@@ -66,6 +58,12 @@ Here are some of the projects I've worked on:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=007CHANRITH&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+## 🏆 Achievements
+
+- 📚 Active **university projects** & **coding challenges**
 
 ---
 
