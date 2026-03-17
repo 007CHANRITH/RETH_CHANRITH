@@ -1,11 +1,8 @@
 <h1 align="center">👋 Hi, I'm Reth Chanrith</h1>
 
-<p align="center">
-  <em>🎓 Year 3 Semester 2 Information Technology & Engineering Student at Royal University of Phnom Penh (RUPP)
-    &nbsp;|&nbsp; 💻 Full-Stack & Mobile Developer</em><br/>
-  <em>🚀 Passionate about building real-world apps &nbsp;|&nbsp; 🌱 Always learning, always building</em>
-</p>
-
+🎓 Year 3 Semester 2 Information Technology & Engineering Student at Royal University of Phnom Penh (RUPP)
+💻 Goal Career : Full-Stack & Mobile Developer | 🚀 Passionate about Web, Mobile, and Software Development
+🌱 Always learning, always building.
 ---
 
 ## 🧑‍💻 About Me
