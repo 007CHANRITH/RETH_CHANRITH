@@ -9,7 +9,7 @@
 - 🎓 **Year 3 Semester 2 IT & Engineering** student at **RUPP**
 - 💻 Goal Career: **Full-Stack & Mobile Developer**
 - 🚀 Passionate about **Web, Mobile & Software Development**
-- 🤝 Love building projects that help **communities and real users**
+- 🤝 Love building projects that help **communities**
 - 🎯 Goal: Become a **skilled software engineer** and future **Full-Stack Developer**
 
 ---
