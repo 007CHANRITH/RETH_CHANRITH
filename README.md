@@ -1,4 +1,4 @@
-<h1 align="center">👋 💻 Hi, I'm Reth Chanrith</h1>
+<h1 align="center">💻👤 Hi, I'm Reth Chanrith</h1>
 🎓 Year 3 Semester 2 Information Technology & Engineering Student at Royal University of Phnom Penh (RUPP)<br/>
 💻 Goal Career : Full-Stack & Mobile Developer | 🚀 Passionate about Web, Mobile, and Software Development<br/>
 ☘️  learning, building.
