@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hi, I'm Reth Chanrith</h1>
 
 <p align="center">
-  <em>🎓 Year 3 Software Engineering Student &nbsp;|&nbsp; 💻 Full-Stack & Mobile Developer</em><br/>
+  <em>🎓 Year 3 Semester 2 Information Technology & Engineering Student at Royal University of Phnom Penh (RUPP)
+    &nbsp;|&nbsp; 💻 Full-Stack & Mobile Developer</em><br/>
   <em>🚀 Passionate about building real-world apps &nbsp;|&nbsp; 🌱 Always learning, always building</em>
 </p>
 
@@ -9,11 +10,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **Year 3 Software Engineering** student
+- 🎓 **Year 3 Semester 2 IT & Engineering** student at **RUPP**
 - 💻 Goal Career: **Full-Stack & Mobile Developer**
-- 🚀 Passionate about **Web, Mobile, Cloud & Software Development**
+- 🚀 Passionate about **Web, Mobile & Software Development**
 - 🤝 Love building projects that help **communities and real users**
-- 🎯 Goal: Become a **skilled software engineer** and future **tech innovator**
+- 🎯 Goal: Become a **skilled software engineer** and future **Full-Stack Developer**
 
 ---
 
@@ -26,14 +27,16 @@ Here are some of the projects I've worked on:
 - 🗺️ **Campus Navigation Website** – Helps new students & guests find places at RUPP.
 - 🎮 **Rabbit Game** – Fun and interactive game built in C++.
 - 💬 **EZTalk** – Mobile chat application built for easy communication.
+- 🏋️ **Gym Trainer App** – Fitness trainer mobile app built with Kotlin.
 
 ---
 
 ## 📚 Currently Learning
 
-- 🌐 **Web Development** → HTML, CSS, Bootstrap 5, JavaScript, Laravel
+- 🌐 **Web Development** → HTML, CSS, JavaScript
 - 📱 **Mobile Development** → Flutter, Dart, Kotlin
 - 💻 **Programming** → C, C++, Java
+- 🌐 **Networking** → Computer Networks & Protocols
 
 ---
 
@@ -56,12 +59,12 @@ Here are some of the projects I've worked on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kimsunly&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsunly&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=007CHANRITH&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=007CHANRITH&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kimsunly&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=007CHANRITH&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -77,10 +80,18 @@ Here are some of the projects I've worked on:
 ## 🔗 Connect with Me
 
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/udeu65l2i2">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/chan-rith-323282300/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/chan_rith_xie">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://t.me/mechanrith">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
 </p>
 
 ---
