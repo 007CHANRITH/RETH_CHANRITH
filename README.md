@@ -30,7 +30,7 @@ Here are some of the projects I've worked on:
 ## 📚 Currently Learning
 
 - 🌐 **Web Development** → HTML, CSS, JavaScript
-- 📱 **Mobile Development** → Flutter, Dart, Kotlin
+- 📱 **Mobile Development** → Flutter, Dart, Kotlin , java
 - 💻 **Programming** → C, C++, Java
 - 🌐 **Networking** → Computer Networks & Protocols
 
